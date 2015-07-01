@@ -12,6 +12,8 @@ If you click `cancel`, the game would continue without any problem. However, if 
 
 ![](before1.jpg)
 
+Edit: [O] Lose , [X] Lost
+
 ![](before2.jpg)
 
 This simple javascript redirect the "エラーが発生したため、ページ更新します" message from `window.confirm()` to `console.log()`. So there will be no more misclicks.
